@@ -1,0 +1,4 @@
+Những chức năng đã làm:
+-đăng kí,đăng nhập,check quyền
+-thêm,bớt,sửa,xóa
+-validate,query
